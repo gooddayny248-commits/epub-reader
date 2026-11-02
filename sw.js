@@ -1,5 +1,5 @@
 // 편한 EPUB 리더 - 오프라인 캐시 + 안드로이드 "공유하기"로 EPUB 받기
-const CACHE = 'epub-reader-v1';
+const CACHE = 'epub-reader-v2';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png',
   'https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js',
   'https://cdn.jsdelivr.net/npm/epubjs@0.3.93/dist/epub.min.js'];
